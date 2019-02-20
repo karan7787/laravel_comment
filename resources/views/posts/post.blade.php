@@ -21,4 +21,6 @@
             
             
         </div><!-- /.blog-post -->
+        
+        Changes made in sample branch
 
